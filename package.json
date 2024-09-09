@@ -1,0 +1,16 @@
+{
+  "name": "jogo",
+  "version": "1.0.0",
+  "description": "Utilizando tanto o router do express quanto os models separados dos controllers. Crie o CRUD das seguintes entidades:  Jogo, Genero, Estúdio,Publicadora,",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "dev" : "nodemon src/index.js"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "nodemon": "^3.1.4"
+  }
+}
